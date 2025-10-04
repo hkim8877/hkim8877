@@ -1,10 +1,8 @@
 <h1 align="center">👋 Welcome to my GitHub! 🚀</h1>
 
-I’m Jean, a curious mind and aspiring software engineer studying at Hive Helsinki, where I’m diving deep into the world of code through the 42 Cursus.
+🌱 Hi, I’m Jean, a former accountant from Toronto who found a new passion in coding. 
+🔎 My love for numbers and pattern recognition now fuels my problem-solving in software development at Hive Helsinki.
 
-🔎 I enjoy exploring how things work under the hood and turning complex challenges into elegant, efficient solutions.
-
-🌱 Continuously experimenting with new ideas, learning from every project, and expanding my skills with each challenge I tackle.
 
 
 ## 💻 Tech Stack

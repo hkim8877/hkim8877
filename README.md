@@ -1,4 +1,4 @@
-###<h1 align="center">👋 Welcome to my GitHub! </h1>
+<h1 align="center">👋 Welcome to my GitHub! </h1>
 
 🌱 Hi, I’m Jean, a former accountant from Toronto who found a new passion in coding.
 

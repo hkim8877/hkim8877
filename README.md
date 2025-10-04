@@ -9,15 +9,15 @@
 
 
 ## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=simple&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=simple&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=simple&logo=git&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=simple&logo=r&logoColor=white)
 
 
 
 
-## 🚀 42 Cursus
+## 🐝 42 Cursus
 | Project                                                                                  | Description                            | Stack     |
 | ---------------------------------------------------------------------------------------- | -------------------------------------- | ---------------- |
 | [libft](https://github.com/hkim8877/Libft) | My first custom C library        | C  |

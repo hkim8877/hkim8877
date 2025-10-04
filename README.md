@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 <h1 align="center">👋 Welcome to my GitHub! 🚀</h1>
 
 I’m Jean, a curious mind and aspiring software engineer studying at Hive Helsinki, where I’m diving deep into the world of code through the 42 Cursus.
@@ -6,6 +6,15 @@ I’m Jean, a curious mind and aspiring software engineer studying at Hive Helsi
 🔎 I enjoy exploring how things work under the hood and turning complex challenges into elegant, efficient solutions.
 
 🌱 Continuously experimenting with new ideas, learning from every project, and expanding my skills with each challenge I tackle.
+
+
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+
 
 # 🚀 42 Cursus
 | Project                                                                                  | Description                            | Stack     |

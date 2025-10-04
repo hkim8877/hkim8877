@@ -2,7 +2,9 @@
 <h1 align="center">👋 Welcome to my GitHub! 🚀</h1>
 
 I’m Jean, a curious mind and aspiring software engineer studying at Hive Helsinki, where I’m diving deep into the world of code through the 42 Cursus.
+
 🔎 I enjoy exploring how things work under the hood and turning complex challenges into elegant, efficient solutions.
+
 🌱 Continuously experimenting with new ideas, learning from every project, and expanding my skills with each challenge I tackle.
 
 # 🚀 42 Cursus

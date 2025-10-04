@@ -27,7 +27,7 @@
 | [get_next_line(static buffer)](https://github.com/hkim8877/get_next_line_2) | The second version of get_next_line, keeping track with a static buffer | C  |
 | [push_swap](https://github.com/hkim8877/push_swap) | A sorting algorithm project focused on efficiency and minimal operations        | C  |
 | [pipex](https://github.com/hkim8877/pipex) | A project that recreates the behavior of Unix pipes between commands        | C  |
-| [so_long](https://github.com/hkim8877/so_long) | simple 2D game built with the MiniLibX graphics library      | C  |
+| [so_long](https://github.com/hkim8877/so_long) | Simple 2D game built with the MiniLibX graphics library      | C  |
 | [philosophers](https://github.com/hkim8877/philosophers) | A multithreading project exploring concurrency and synchronization with the dining philosophers problem        | C  |
 
 

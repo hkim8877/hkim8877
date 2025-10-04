@@ -17,7 +17,7 @@
 
 
 
-# 🚀 42 Cursus
+## 🚀 42 Cursus
 | Project                                                                                  | Description                            | Stack     |
 | ---------------------------------------------------------------------------------------- | -------------------------------------- | ---------------- |
 | [libft](https://github.com/hkim8877/Hive/tree/main/libft) | My first custom C library        | C  |

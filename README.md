@@ -1,4 +1,3 @@
-## 👋 Hi there 
 <h1 align="center">👋 Welcome to my GitHub! 🚀</h1>
 
 I’m Jean, a curious mind and aspiring software engineer studying at Hive Helsinki, where I’m diving deep into the world of code through the 42 Cursus.

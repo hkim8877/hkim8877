@@ -6,7 +6,7 @@ I’m Jean, a curious mind and aspiring software engineer studying at Hive Helsi
 🌱 Continuously experimenting with new ideas, learning from every project, and expanding my skills with each challenge I tackle.
 
 # 🚀 42 Cursus
-| Project                                                                                  | Description                            | Technologies     |
+| Project                                                                                  | Description                            | Stack     |
 | ---------------------------------------------------------------------------------------- | -------------------------------------- | ---------------- |
 | [libft](https://github.com/hkim8877/Hive/tree/main/libft) | My first custom C library        | C  |
 | [Born2beroot] | A virtual machine setup project focused on Linux system administration and security        | C  |

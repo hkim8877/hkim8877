@@ -18,17 +18,17 @@
 
 
 ## ✨ 42 Cursus
-| Project                                                                                  | Description                            | Stack     |
-| ---------------------------------------------------------------------------------------- | -------------------------------------- | ---------------- |
-| [libft](https://github.com/hkim8877/Libft) | My first custom C library        | C  |
-| [Born2beroot] | A virtual machine setup project focused on Linux system administration and security        | C  |
-| [ft_printf](https://github.com/hkim8877/ft_printf) | Recreating printf with support for various format specifiers     | C  |
-| [get_next_line](https://github.com/hkim8877/get_next_line) | My first attempt at get_next_line, uses dynamic memory for more flexible line handling | C   |
-| [get_next_line(static buffer)](https://github.com/hkim8877/get_next_line_2) | The second version of get_next_line, keeping track with a static buffer | C  |
-| [push_swap](https://github.com/hkim8877/push_swap) | A sorting algorithm project focused on efficiency and minimal operations        | C  |
-| [pipex](https://github.com/hkim8877/pipex) | A project that recreates the behavior of Unix pipes between commands        | C  |
-| [so_long](https://github.com/hkim8877/so_long) | Simple 2D game built with the MiniLibX graphics library      | C  |
-| [philosophers](https://github.com/hkim8877/philosophers) | A multithreading project exploring concurrency and synchronization with the dining philosophers problem        | C  |
+| Project                                                                                  | Description                            |
+| ---------------------------------------------------------------------------------------- | -------------------------------------- | 
+| [libft](https://github.com/hkim8877/Libft) | My first custom C library        |
+| [Born2beroot] | A virtual machine setup project focused on Linux system administration and security        |
+| [ft_printf](https://github.com/hkim8877/ft_printf) | Recreating printf with support for various format specifiers     |
+| [get_next_line](https://github.com/hkim8877/get_next_line) | My first attempt at get_next_line, uses dynamic memory for more flexible line handling |
+| [get_next_line(static buffer)](https://github.com/hkim8877/get_next_line_2) | The second version of get_next_line, keeping track with a static buffer |
+| [push_swap](https://github.com/hkim8877/push_swap) | A sorting algorithm project focused on efficiency and minimal operations        |
+| [pipex](https://github.com/hkim8877/pipex) | A project that recreates the behavior of Unix pipes between commands        |
+| [so_long](https://github.com/hkim8877/so_long) | Simple 2D game built with the MiniLibX graphics library      |
+| [philosophers](https://github.com/hkim8877/philosophers) | A multithreading project exploring concurrency and synchronization with the dining philosophers problem        |
 
 
 
